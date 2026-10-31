@@ -1,0 +1,12 @@
+Topic name,Tags,Partitions,Production,Consumption,Retained bytes,Consumers,Has schema
+ecommerce_checkout_events,,3,0B/s,0B/s,16.2KB,,false
+ecommerce_fulfillment_ready,,3,0B/s,,4.57KB,,false
+ecommerce_order_payment_decisions,,3,0B/s,0B/s,24.42KB,,false
+ecommerce_payment_events,,3,0B/s,0B/s,11.38KB,,false
+ecommerce_payment_outcomes_5_minute,,3,0B/s,0B/s,2.19KB,,false
+ecommerce_payment_review,,3,0B/s,,1.51KB,,false
+ecommerce_rejected_checkout_events,,3,,0B/s,0B,,false
+ecommerce_valid_checkout_events,,3,0B/s,0B/s,15.55KB,,false
+ecommerce_valid_payment_events,,3,0B/s,0B/s,10.42KB,,false
+orders_raw,,3,,,36.7KB,,true
+pksqlc-4xg0dke-processing-log,,8,--,0B/s,0B,,false

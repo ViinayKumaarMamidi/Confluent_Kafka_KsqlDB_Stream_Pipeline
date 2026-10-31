@@ -1,4 +1,4 @@
-# Real-Time E-commerce Checkout and Payment Pipeline
+# Confluent Kafka Real-Time E-commerce Checkout and Payment Pipeline using ksqlDB 
 
 This project is a hands-on streaming data engineering lab built with **Confluent Cloud Kafka**, **ksqlDB**, and a **Python event producer**. It simulates e-commerce checkouts and payments, validates and correlates them in event time, and routes the resulting decisions to fulfillment, payment review, and an operational aggregation.
 
